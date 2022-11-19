@@ -30,7 +30,7 @@ const config = {
       require.resolve('@cmfcmf/docusaurus-search-local'),
       {
         indexPages: true,
-        language: ['zh', 'en', 'de', 'fr'],
+        language: ['en', 'de', 'fr'],
       },
     ],
   ],
